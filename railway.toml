@@ -1,0 +1,12 @@
+# Railway deploy config for paradise-team-email-bot.
+# Daily cron at 13:00 UTC = 8am Chicago (CDT).
+# restartPolicyType=NEVER keeps the one-shot from looping.
+
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+startCommand = "python cron_runner.py"
+restartPolicyType = "NEVER"
+cronSchedule = "0 13 * * *"

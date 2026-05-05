@@ -1,0 +1,7 @@
+first_name,last_name,email,town,home_value_tier,year_built,recently_sold,source_type,source_url
+Helen,Brewster,helen.brewster.test@example.com,Wilmette,high,1985,0,test,manual
+Adam,Sokolov,adam.sokolov.test@example.com,Northbrook,high,2009,0,test,manual
+Marisa,Klein,marisa.klein.test@example.com,Lake Bluff,ultra,1972,0,test,manual
+Eric,Dahlberg,eric.dahlberg.test@example.com,Long Grove,high,2018,1,test,manual
+Charlotte,Voss,charlotte.voss.test@example.com,Kenilworth,ultra,1928,0,test,manual
+Brent,Halloran,brent.halloran.test@example.com,Lake Zurich,mid,1996,0,test,manual

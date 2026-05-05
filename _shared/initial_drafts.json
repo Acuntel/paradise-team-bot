@@ -1,0 +1,385 @@
+{
+  "_README": "20 hand-written initial seeds. Every email scraped from a public page; source_url cited per row. To regenerate: re-run _shared/seed_initial_drafts.py.",
+
+  "brady": [
+    {
+      "first_name": "Rick",
+      "last_name": "Becker",
+      "email": "rb@beckerarchitects.com",
+      "town": "Highland Park",
+      "home_value_tier": "ultra",
+      "company_name": "Becker Architects",
+      "source_url": "https://www.beckerarchitects.com/contact",
+      "source_type": "scraped",
+      "subject": "From your neighbor in Lake Forest",
+      "hero_key": "kitchen_marble_brass",
+      "thumb_keys": [
+        "kitchen_white_modern",
+        "kitchen_marble_arch",
+        "bath_double_vanity"
+      ],
+      "body": "Hi Rick, this is Brady Schwartz from Paradise Home Design on Deerpath in Lake Forest, basically your neighbor. First real sales job out of high school for me, headed to USC for AI in the fall.\n\nParadise has been on Deerpath for 38 years, and they gave me a $5,000 credit I can put toward a kitchen or primary bath project booked off an in-home walkthrough this month. Free visit, sketches, real numbers, no pressure on the call.\n\nThe showroom at 225 E Deerpath is open if you want to see finishes in person first.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- Brady Schwartz\nParadise Home Design Inc\nbrady@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Martin",
+      "last_name": "Walker",
+      "email": "martinwalkerlaw@gmail.com",
+      "town": "Lake Forest",
+      "home_value_tier": "ultra",
+      "company_name": "The Walker Law Firm",
+      "source_url": "https://bestillinoisattorney.com/",
+      "source_type": "scraped",
+      "subject": "From your neighbor on Deerpath",
+      "hero_key": "kitchen_marble_arch",
+      "thumb_keys": [
+        "kitchen_marble_brass",
+        "kitchen_white_chandeliers",
+        "kitchen_white_modern"
+      ],
+      "body": "Hi Martin, this is Brady Schwartz from Paradise Home Design on Deerpath, basically your neighbor in Lake Forest. First real sales job out of high school for me, headed to USC for AI in the fall.\n\nParadise has been on Deerpath for 38 years, and they gave me a $5,000 credit I can put toward a kitchen or primary bath project booked off an in-home walkthrough this month. Free visit, sketches, real numbers, no pressure.\n\nWe work with Adelphi, Candlelight, and Medallion on the cabinet side, so the finish quality on day one matches the showroom on day two.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- Brady Schwartz\nParadise Home Design Inc\nbrady@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Jessica",
+      "last_name": "Cohen",
+      "email": "office@jessicacohenorthodontics.com",
+      "town": "Highland Park",
+      "home_value_tier": "high",
+      "company_name": "Jessica Cohen Orthodontics",
+      "source_url": "https://www.jessicacohenorthodontics.com/contact.html",
+      "source_type": "scraped",
+      "subject": "Working in Highland Park this month",
+      "hero_key": "kitchen_white_pendants",
+      "thumb_keys": [
+        "kitchen_marble_brass",
+        "kitchen_white_modern",
+        "bath_double_vanity"
+      ],
+      "body": "Hi Dr. Cohen, this is Brady Schwartz from Paradise Home Design on Deerpath in Lake Forest. First real sales job out of high school for me, headed to USC for AI in the fall, so I'm trying hard to land a few in-home walkthroughs in Highland Park this month.\n\nParadise has been on Deerpath for 38 years, and they gave me a $4,000 credit I can put toward a kitchen or bath project booked off the visit. Free walkthrough, sketches, real numbers, no pressure.\n\nWe're BBB-accredited and have done plenty of work in Highland Park over the years.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- Brady Schwartz\nParadise Home Design Inc\nbrady@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Joe",
+      "last_name": "Spagnoli",
+      "email": "admin@doctorjoe.pro",
+      "town": "Lake Forest",
+      "home_value_tier": "high",
+      "company_name": "Lake Forest Pediatric Dentistry",
+      "source_url": "https://lakeforestpediatricdentistry.com/",
+      "source_type": "scraped",
+      "subject": "First job, hoping for a shot",
+      "hero_key": "kitchen_white_modern",
+      "thumb_keys": [
+        "kitchen_white_pendants",
+        "kitchen_marble_close",
+        "bath_double_vanity"
+      ],
+      "body": "Hi Dr. Joe, this is Brady Schwartz from Paradise Home Design on Deerpath in Lake Forest. First real sales job out of high school for me, headed to USC for AI in the fall, so I'm trying hard to land a few in-home walkthroughs this month.\n\nParadise has been on Deerpath for 38 years, and they gave me a $4,000 credit I can put toward a kitchen or bath project booked off the visit. Free walkthrough, sketches, real numbers, no pressure.\n\nThe showroom at 225 E Deerpath is open if you want to see finishes in person first.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- Brady Schwartz\nParadise Home Design Inc\nbrady@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Beth",
+      "last_name": "Kearns",
+      "email": "beth@wkarch.com",
+      "town": "Chicago",
+      "home_value_tier": "high",
+      "company_name": "Wheeler Kearns Architects",
+      "source_url": "https://www.wkarch.com/",
+      "source_type": "scraped",
+      "subject": "Quick one about your kitchen",
+      "hero_key": "kitchen_black_island",
+      "thumb_keys": [
+        "kitchen_marble_arch",
+        "kitchen_marble_brass",
+        "kitchen_black_wood"
+      ],
+      "body": "Hi Beth, this is Brady Schwartz from Paradise Home Design on Deerpath in Lake Forest. First real sales job out of high school for me, headed to USC for AI in the fall.\n\nParadise has been on Deerpath for 38 years, and they gave me a $4,000 credit I can put toward a kitchen or bath project booked off an in-home walkthrough this month. Free visit, sketches, real numbers, no pressure on the call.\n\nWe work with Adelphi, Candlelight, and Medallion on the cabinet side, BBB-accredited.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- Brady Schwartz\nParadise Home Design Inc\nbrady@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    }
+  ],
+
+  "sales": [
+    {
+      "first_name": "Lynn",
+      "last_name": "Rosen",
+      "email": "lrosen@rosenandcohen.com",
+      "town": "Northbrook",
+      "home_value_tier": "high",
+      "company_name": "Rosen & Cohen LLC",
+      "source_url": "https://www.rosenandcohen.com/about-us",
+      "source_type": "scraped",
+      "subject": "$4,000 toward your Northbrook kitchen",
+      "hero_key": "kitchen_white_modern",
+      "thumb_keys": [
+        "kitchen_navy_island_small",
+        "kitchen_white_pendants",
+        "kitchen_traditional_cream"
+      ],
+      "body": "Hi Lynn. We're putting a $4,000 credit toward any kitchen or bath project booked in Northbrook this month, and your home came up on the shortlist.\n\nThe credit pairs with a free in-home design consult. Our designer brings sketches, finish samples, and real numbers, no commitment.\n\nParadise has been on Deerpath in Lake Forest for 38 years. We work with Adelphi, Candlelight, and Medallion on the cabinet side.\n\nWe come to you, thirty minutes max. What's your availability look like this week?\n\n- The Sales Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\nsales@paradisehomedesigninc.com\n(847) 681-9000\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Gerald",
+      "last_name": "Cohen",
+      "email": "gcohen@rosenandcohen.com",
+      "town": "Northbrook",
+      "home_value_tier": "high",
+      "company_name": "Rosen & Cohen LLC",
+      "source_url": "https://www.rosenandcohen.com/about-us",
+      "source_type": "scraped",
+      "subject": "$4,000 kitchen credit, Northbrook",
+      "hero_key": "kitchen_navy_island_small",
+      "thumb_keys": [
+        "kitchen_white_modern",
+        "kitchen_traditional_cream",
+        "kitchen_white_pendants"
+      ],
+      "body": "Hi Gerald. We've set aside a $4,000 credit for a home in Northbrook this month. The credit applies toward any kitchen or bath project booked off an in-home walkthrough.\n\nThe walkthrough is free. Our designer brings sketches, finish samples, and real numbers, no commitment.\n\nParadise has been on Deerpath in Lake Forest for 38 years and is BBB-accredited.\n\nWe come to you, thirty minutes max. What's your availability look like this week?\n\n- The Sales Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\nsales@paradisehomedesigninc.com\n(847) 681-9000\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Sidell",
+      "email": "msidell@rosenandcohen.com",
+      "town": "Northbrook",
+      "home_value_tier": "high",
+      "company_name": "Rosen & Cohen LLC",
+      "source_url": "https://www.rosenandcohen.com/about-us",
+      "source_type": "scraped",
+      "subject": "A $4,000 credit for one home in Northbrook",
+      "hero_key": "kitchen_traditional_cream",
+      "thumb_keys": [
+        "kitchen_navy_island_small",
+        "kitchen_white_modern",
+        "kitchen_white_pendants"
+      ],
+      "body": "Hi Michael. We've set aside one $4,000 credit for a home in Northbrook this month. The credit applies toward any kitchen or bath project booked off an in-home walkthrough.\n\nThe walkthrough is free. Our designer brings sketches, finish samples, and real numbers, no commitment.\n\nParadise has been on Deerpath in Lake Forest for 38 years. Our showroom at 225 E Deerpath is open if you want to see finishes in person first.\n\nWe come to you, thirty minutes max. What's your availability look like this week?\n\n- The Sales Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\nsales@paradisehomedesigninc.com\n(847) 681-9000\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Rhonda",
+      "last_name": "Kodjayan",
+      "email": "rkodjayan@rosenandcohen.com",
+      "town": "Northbrook",
+      "home_value_tier": "high",
+      "company_name": "Rosen & Cohen LLC",
+      "source_url": "https://www.rosenandcohen.com/about-us",
+      "source_type": "scraped",
+      "subject": "$4,000 on us if we walk through this week",
+      "hero_key": "kitchen_white_pendants",
+      "thumb_keys": [
+        "kitchen_navy_island_small",
+        "kitchen_traditional_cream",
+        "kitchen_white_modern"
+      ],
+      "body": "Hi Rhonda. We're putting a $4,000 credit toward any kitchen or bath project booked off an in-home walkthrough in Northbrook this week.\n\nThe walkthrough is free. Our designer brings sketches, finish samples, and real numbers, no commitment.\n\nParadise has been on Deerpath in Lake Forest for 38 years and works with Adelphi, Candlelight, Medallion, and Fabuwood.\n\nWe come to you, thirty minutes max. What's your availability look like this week?\n\n- The Sales Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\nsales@paradisehomedesigninc.com\n(847) 681-9000\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Vinci Hamp",
+      "last_name": "Architects",
+      "email": "vha@vinci-hamp.com",
+      "town": "Chicago",
+      "home_value_tier": "high",
+      "company_name": "Vinci Hamp Architects",
+      "source_url": "https://www.vinci-hamp.com/",
+      "source_type": "scraped",
+      "subject": "$4,000 toward your Chicago kitchen",
+      "hero_key": "kitchen_black_island",
+      "thumb_keys": [
+        "kitchen_marble_arch",
+        "kitchen_marble_brass",
+        "kitchen_black_wood"
+      ],
+      "body": "Hello. We're putting a $4,000 credit toward any kitchen or bath project booked off an in-home walkthrough in Chicago this month.\n\nThe credit pairs with a free in-home design consult. Our designer brings sketches, finish samples, and real numbers, no commitment.\n\nParadise has been on Deerpath in Lake Forest for 38 years. Our showroom at 225 E Deerpath is open if you want to see finishes in person first.\n\nWe come to you, thirty minutes max. What's your availability look like this week?\n\n- The Sales Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\nsales@paradisehomedesigninc.com\n(847) 681-9000\nSee our work: paradisehomedesigninc.com/gallery.html"
+    }
+  ],
+
+  "team": [
+    {
+      "first_name": "Becker",
+      "last_name": "Team",
+      "email": "info@beckerarchitects.com",
+      "town": "Highland Park",
+      "home_value_tier": "high",
+      "company_name": "Becker Architects",
+      "source_url": "https://www.beckerarchitects.com/contact",
+      "source_type": "scraped",
+      "subject": "Our guys are in Highland Park this week",
+      "hero_key": "kitchen_marble_brass",
+      "thumb_keys": [
+        "kitchen_white_modern",
+        "kitchen_marble_arch",
+        "bath_double_vanity"
+      ],
+      "body": "Hi there, our crew is working in Highland Park this week, so we figured we'd send a quick note before the truck moves to the next town.\n\nSince we're already in the area, anything we book off a walkthrough this week comes with a $4,000 credit toward the kitchen or bath project. The credit is tied to this week, not next, since that's the only window we're out there.\n\nWe've been on Deerpath in Lake Forest for 38 years.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- The Team\nParadise Home Design Inc\n38 years on Deerpath\nteam@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Studio Gang",
+      "last_name": "Team",
+      "email": "marketing@studiogang.com",
+      "town": "Chicago",
+      "home_value_tier": "high",
+      "company_name": "Studio Gang",
+      "source_url": "https://studiogang.com/contact",
+      "source_type": "scraped",
+      "subject": "Crew in Chicago this week",
+      "hero_key": "kitchen_marble_arch",
+      "thumb_keys": [
+        "kitchen_black_island",
+        "kitchen_marble_brass",
+        "kitchen_black_wood"
+      ],
+      "body": "Hi there, our crew is working in Chicago this week, so we wanted to drop a quick note before the truck moves to the next town.\n\nBecause we're already around, anything we book off a walkthrough this week comes with a $4,000 credit toward the kitchen or bath project. The credit only applies this week, since that's the only window we're in your area.\n\nOur showroom is on Deerpath in Lake Forest if you'd like to see finishes first.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- The Team\nParadise Home Design Inc\n38 years on Deerpath\nteam@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "WK",
+      "last_name": "Studio",
+      "email": "studio@wkarch.com",
+      "town": "Chicago",
+      "home_value_tier": "high",
+      "company_name": "Wheeler Kearns Architects",
+      "source_url": "https://www.wkarch.com/",
+      "source_type": "scraped",
+      "subject": "$4,000 kitchen credit, this week",
+      "hero_key": "kitchen_black_island",
+      "thumb_keys": [
+        "kitchen_marble_arch",
+        "kitchen_marble_brass",
+        "kitchen_white_modern"
+      ],
+      "body": "Hi there, our crew is working in Chicago this week, so before the truck moves on, here's a quick note.\n\nSince we're already around, we're putting a $4,000 credit on the table for any kitchen or bath project booked off a walkthrough this week. The credit is tied to this week, not next, since that's the only window we're out there.\n\nWe've been on Deerpath in Lake Forest for 38 years and are BBB-accredited.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- The Team\nParadise Home Design Inc\n38 years on Deerpath\nteam@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Glencoe Family",
+      "last_name": "Dental",
+      "email": "office@glencoefamilydental.com",
+      "town": "Glencoe",
+      "home_value_tier": "high",
+      "company_name": "Glencoe Family Dental",
+      "source_url": "https://glencoefamilydental.com/",
+      "source_type": "scraped",
+      "subject": "Working in Glencoe this week",
+      "hero_key": "kitchen_marble_arch",
+      "thumb_keys": [
+        "kitchen_white_chandeliers",
+        "kitchen_white_pendants",
+        "kitchen_marble_brass"
+      ],
+      "body": "Hi there, our crew is working in Glencoe this week, so we figured we'd send a quick note before the truck moves to the next town.\n\nSince we're already in the area, any kitchen or bath project we book off a walkthrough this week comes with a $4,000 credit. The credit only applies this week, since that's the only window we're out there.\n\nOur showroom is on Deerpath in Lake Forest if you want to see finishes first.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- The Team\nParadise Home Design Inc\n38 years on Deerpath\nteam@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Chuhak Tecson",
+      "last_name": "Office",
+      "email": "info@chuhak.com",
+      "town": "Chicago",
+      "home_value_tier": "high",
+      "company_name": "Chuhak & Tecson",
+      "source_url": "https://www.chuhak.com/",
+      "source_type": "scraped",
+      "subject": "Crew in Chicago this week",
+      "hero_key": "kitchen_black_island",
+      "thumb_keys": [
+        "kitchen_marble_arch",
+        "kitchen_marble_brass",
+        "kitchen_black_wood"
+      ],
+      "body": "Hi there, our crew is working in Chicago this week, so we wanted to drop a quick line before the truck moves to the next town.\n\nBecause we're already around, anything we book off a walkthrough this week comes with a $4,000 credit toward the project. The credit is tied to this week only, since that's the only window we're in your area.\n\nWe've been on Deerpath in Lake Forest for 38 years.\n\nWe come to you, fifteen minutes max. What's your availability look like this week?\n\n- The Team\nParadise Home Design Inc\n38 years on Deerpath\nteam@paradisehomedesigninc.com\nSee our work: paradisehomedesigninc.com/gallery.html"
+    }
+  ],
+
+  "partnerships": [
+    {
+      "first_name": "New Development",
+      "last_name": "Team",
+      "email": "nmillot@relatedmidwest.com",
+      "town": "Chicago",
+      "home_value_tier": "ultra",
+      "company_name": "Related Midwest",
+      "personal_hook": "Saw the Crain's Newsmaker piece on Curt Bailey, congrats on the recognition.",
+      "pipeline_note": "400 Lake Shore broke ground in February with 1,135 unit interiors over the next decade.",
+      "source_url": "https://www.relatedmidwest.com/contact",
+      "source_type": "scraped",
+      "subject": "Faster + cheaper kitchen package for Related",
+      "hero_key": "kitchen_marble_brass",
+      "thumb_keys": [
+        "kitchen_marble_arch",
+        "kitchen_black_island",
+        "kitchen_white_modern"
+      ],
+      "body": "We're going to do a quicker and a better job than anyone you've ever worked with before. Saw the Crain's Newsmaker piece on Curt, congrats on the recognition.\n\nParadise has been doing high-end kitchen, bath, and cabinetry packages out of Lake Forest for 38 years. Adelphi, Candlelight, Medallion, Fabuwood on the cabinet side, BBB-accredited.\n\n400 Lake Shore broke ground in February with 1,135 unit interiors over the next decade, that's our sweet spot.\n\nWe design, supply, and install. One PO. One accountable team. No cabinet-installer finger-pointing.\n\nTwenty minutes at your office or the site, your pick. What does your availability look like?\n\n- The Partnership Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\npartnerships@paradisehomedesigninc.com\n(847) 681-9000\nPortfolio: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Sterling Bay",
+      "last_name": "Team",
+      "email": "hello@sterlingbay.com",
+      "town": "Chicago",
+      "home_value_tier": "ultra",
+      "company_name": "Sterling Bay",
+      "personal_hook": "Following the 47-story tower with Magellan, congrats on hitting pre-leasing.",
+      "pipeline_note": "Active luxury tower interiors with capacity to spec into the late 2026 wave.",
+      "source_url": "https://www.sterlingbay.com/contact",
+      "source_type": "scraped",
+      "subject": "On the 47-story tower, supply question",
+      "hero_key": "kitchen_marble_arch",
+      "thumb_keys": [
+        "kitchen_marble_brass",
+        "kitchen_black_island",
+        "kitchen_white_modern"
+      ],
+      "body": "We're going to do a quicker and a better job than anyone you've ever worked with before. Following the 47-story tower with Magellan, congrats on hitting pre-leasing.\n\nParadise has been doing high-end kitchen, bath, and cabinetry packages out of Lake Forest for 38 years. Adelphi, Candlelight, Medallion, Fabuwood on the cabinet side, BBB-accredited.\n\nActive luxury tower interiors are our sweet spot, and we have capacity to spec into the late 2026 wave.\n\nOur showroom is 32 minutes from your office. We'll drive.\n\nTwenty minutes at your office or the site, your pick. What does your availability look like?\n\n- The Partnership Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\npartnerships@paradisehomedesigninc.com\n(847) 681-9000\nPortfolio: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Optima",
+      "last_name": "Team",
+      "email": "info@optima.inc",
+      "town": "Glencoe",
+      "home_value_tier": "ultra",
+      "company_name": "Optima Inc",
+      "personal_hook": "Caught the Verdana lease-up coverage and the village board green-light on Lumina, congrats on both.",
+      "pipeline_note": "128 unit-level kitchens and baths heading into 2026 finish-out at Optima Lumina, Wilmette.",
+      "source_url": "https://www.optima.inc/contact",
+      "source_type": "scraped",
+      "subject": "On Lumina, quick supply question",
+      "hero_key": "kitchen_marble_brass",
+      "thumb_keys": [
+        "kitchen_marble_arch",
+        "kitchen_white_modern",
+        "kitchen_black_island"
+      ],
+      "body": "We're going to do a quicker and a better job than anyone you've ever worked with before. Caught the Verdana lease-up coverage and the village board green-light on Lumina, congrats on both.\n\nParadise has been doing high-end kitchen, bath, and cabinetry packages out of Lake Forest for 38 years. Adelphi, Candlelight, Medallion on the cabinet side, BBB-accredited.\n\n128 unit-level kitchens and baths heading into 2026 finish-out at Lumina, that's our sweet spot.\n\nWe design, supply, and install. One PO. One accountable team. No cabinet-installer finger-pointing.\n\nTwenty minutes at your office or the site, your pick. What does your availability look like?\n\n- The Partnership Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\npartnerships@paradisehomedesigninc.com\n(847) 681-9000\nPortfolio: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Amanda",
+      "last_name": "Belgravia",
+      "email": "amanda@belgraviagroup.com",
+      "town": "Chicago",
+      "home_value_tier": "ultra",
+      "company_name": "Belgravia Group",
+      "personal_hook": "Belgravia's North Shore townhome push has been on our radar all year.",
+      "pipeline_note": "Belgravia's active townhome and luxury condo pipeline across Chicago and the North Shore.",
+      "source_url": "https://www.belgraviagroup.com/about",
+      "source_type": "scraped",
+      "subject": "Faster + cheaper kitchen package for Belgravia",
+      "hero_key": "kitchen_white_modern",
+      "thumb_keys": [
+        "kitchen_marble_brass",
+        "kitchen_marble_arch",
+        "kitchen_black_island"
+      ],
+      "body": "Hi Amanda, we're going to do a quicker and a better job than anyone you've ever worked with before. Belgravia's North Shore townhome push has been on our radar all year.\n\nParadise has been doing high-end kitchen, bath, and cabinetry packages out of Lake Forest for 38 years. Adelphi, Candlelight, Medallion, Fabuwood on the cabinet side, BBB-accredited.\n\nActive townhome and luxury condo interiors are our sweet spot, and we're 38 minutes north of your office.\n\nWe'll match your current supplier's number and beat their lead time, in writing.\n\nTwenty minutes at your office or the site, your pick. What does your availability look like?\n\n- The Partnership Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\npartnerships@paradisehomedesigninc.com\n(847) 681-9000\nPortfolio: paradisehomedesigninc.com/gallery.html"
+    },
+    {
+      "first_name": "Crescent Heights",
+      "last_name": "Team",
+      "email": "info@crescentheights.com",
+      "town": "Chicago",
+      "home_value_tier": "ultra",
+      "company_name": "Crescent Heights",
+      "personal_hook": "Crescent's luxury rental pipeline in Chicago has been on our radar.",
+      "pipeline_note": "Active luxury rental + condo interiors across Chicago and the West.",
+      "source_url": "https://crescentheights.com/",
+      "source_type": "scraped",
+      "subject": "Faster + cheaper kitchen package for Crescent",
+      "hero_key": "kitchen_marble_arch",
+      "thumb_keys": [
+        "kitchen_marble_brass",
+        "kitchen_white_modern",
+        "kitchen_black_island"
+      ],
+      "body": "We're going to do a quicker and a better job than anyone you've ever worked with before. Crescent's luxury rental pipeline in Chicago has been on our radar all year.\n\nParadise has been doing high-end kitchen, bath, and cabinetry packages out of Lake Forest for 38 years. Adelphi, Candlelight, Medallion, Fabuwood on the cabinet side.\n\nActive luxury rental and condo interiors are our sweet spot, and we have capacity to spec into the next wave.\n\nWe'll match your current supplier's number and beat their lead time, in writing.\n\nTwenty minutes at your office or the site, your pick. What does your availability look like?\n\n- The Partnership Team\nParadise Home Design Inc\n225 E Deerpath Rd, Lake Forest IL\npartnerships@paradisehomedesigninc.com\n(847) 681-9000\nPortfolio: paradisehomedesigninc.com/gallery.html"
+    }
+  ]
+}
